@@ -1,0 +1,12 @@
+#include "Entitate.h"
+#include "Repo.h"
+void testget_noOfBranches();
+void testget_totalNoOfCommits();
+void testget_gitPath();
+void testset_noOfBranches();
+void testset_totalNoOfCommits();
+void testset_gitPath();
+void test1();
+void test2();
+void test3();
+void test4();
